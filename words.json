@@ -1,0 +1,122 @@
+[
+  {
+    "value": "ABOBORA",
+    "hint": "Usada para fazer lanternas no Halloween"
+  },
+  {
+    "value": "FANTASMA",
+    "hint": "Espírito que assombra lugares"
+  },
+  {
+    "value": "BRUXA",
+    "hint": "Personagem famosa que voa em uma vassoura"
+  },
+  {
+    "value": "MUMIA",
+    "hint": "Corpo enrolado em faixas"
+  },
+  {
+    "value": "VAMPIRO",
+    "hint": "Criatura que suga sangue"
+  },
+  {
+    "value": "ZUMBI",
+    "hint": "Mortos-vivos que andam devagar"
+  },
+  {
+    "value": "ESQUELETO",
+    "hint": "Estrutura óssea de um corpo"
+  },
+  {
+    "value": "CALDEIRAO",
+    "hint": "Objeto onde bruxas fazem poções"
+  },
+  {
+    "value": "ARANHA",
+    "hint": "Inseto que tece teias assustadoras"
+  },
+  {
+    "value": "CAVEIRA",
+    "hint": "Cabeça de esqueleto"
+  },
+  {
+    "value": "ABACAXI",
+    "hint": "Fruta com coroa"
+  },
+  {
+    "value": "MELANCIA",
+    "hint": "Fruta grande e verde por fora"
+  },
+  {
+    "value": "MORANGO",
+    "hint": "Fruta vermelha com sementes na casca"
+  },
+  {
+    "value": "LARANJA",
+    "hint": "Fruta cítrica e cor de sol"
+  },
+  {
+    "value": "UVA",
+    "hint": "Fruta pequena usada para fazer vinho"
+  },
+  {
+    "value": "KIWI",
+    "hint": "Fruta marron por fora e verde por dentro"
+  },
+  {
+    "value": "MANGA",
+    "hint": "Fruta tropical e doce"
+  },
+  {
+    "value": "COCO",
+    "hint": "Fruta encontrada em palmeiras"
+  },
+  {
+    "value": "AMEIXA",
+    "hint": "Fruta roxa e pequena"
+  },
+  {
+    "value": "CAQUI",
+    "hint": "Fruta laranja, consumida madura"
+  },
+  {
+    "value": "COMPUTADOR",
+    "hint": "Máquina usada para processar informações"
+  },
+  {
+    "value": "INTERNET",
+    "hint": "Rede mundial de computadores"
+  },
+  {
+    "value": "SMARTPHONE",
+    "hint": "Dispositivo móvel inteligente"
+  },
+  {
+    "value": "ROBO",
+    "hint": "Máquina programada para realizar tarefas"
+  },
+  {
+    "value": "ALGORITMO",
+    "hint": "Conjunto de instruções para resolver problemas"
+  },
+  {
+    "value": "INTELIGENCIA ARTIFICIAL",
+    "hint": "Tecnologia que simula a capacidade humana de pensar"
+  },
+  {
+    "value": "PROGRAMACAO",
+    "hint": "Processo de escrever código para computadores"
+  },
+  {
+    "value": "NANOTECNOLOGIA",
+    "hint": "Tecnologia que trabalha em escala muito pequena"
+  },
+  {
+    "value": "DRONE",
+    "hint": "Veículo aéreo não tripulado"
+  },
+  {
+    "value": "CIBERSEGURANCA",
+    "hint": "Proteção de sistemas digitais contra ataques"
+  }
+]
